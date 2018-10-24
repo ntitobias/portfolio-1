@@ -1,0 +1,18 @@
+table, th, td {
+    border: 1px solid black;
+    font-family: Courier;
+    font-size: 95%;
+}
+h1 {
+    color: violet;
+    background-color: cadetblue;
+    font-family: Verdana;
+    font-size: 50px;
+}
+body{
+    background-color: rgb(179, 255, 103);
+}
+p {
+    font-family: Courier;
+    border: 1px solid black;
+}
