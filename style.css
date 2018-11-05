@@ -4,15 +4,15 @@ table, th, td {
     font-size: 95%;
 }
 h1 {
-    color: violet;
+    color: black;
     background-color: cadetblue;
     font-family: Verdana;
     font-size: 50px;
 }
 body{
-    background-color: rgb(179, 255, 103);
+    background-color: white;
 }
-p {
+.stycke{
     font-family: Courier;
     border: 1px solid black;
 }
