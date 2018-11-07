@@ -7,12 +7,27 @@ h1 {
     color: black;
     background-color: cadetblue;
     font-family: Verdana;
-    font-size: 50px;
+    font-size: 45px;
+    width: 640px;
+    border: 1px solid black;
+    padding: 5px;
 }
 body{
     background-color: white;
 }
 .stycke{
     font-family: Courier;
+    background-color: rgb(125, 170, 172);
+    width: 640px;
+    height: 110px;
     border: 1px solid black;
+    margin: 0px;
+    padding: 5px;
+}
+#bild{
+    border: 1px solid black;
+}
+ol{
+    font-family: Courier;
+    padding-left: 30px; 
 }
