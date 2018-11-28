@@ -31,3 +31,7 @@ ol{
     font-family: Courier;
     padding-left: 30px; 
 }
+.sidelinks
+{
+    text-decoration: none;
+}
