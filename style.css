@@ -19,7 +19,7 @@ body{
     font-family: Courier;
     background-color: rgb(125, 170, 172);
     width: 640px;
-    height: 110px;
+    /*height: 110px;*/
     border: 1px solid black;
     margin: 0px;
     padding: 5px;
@@ -30,8 +30,4 @@ body{
 ol{
     font-family: Courier;
     padding-left: 30px; 
-}
-.sidelinks
-{
-    text-decoration: none;
 }
