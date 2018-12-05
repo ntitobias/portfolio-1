@@ -1,25 +1,35 @@
 table, th, td {
     border: 1px solid black;
-    font-family: Courier;
+    font-family: Verdana;
     font-size: 95%;
 }
 h1 {
     color: black;
     background-color: cadetblue;
-    font-family: Verdana;
+    font-family: 'Playfair Display', serif;
     font-size: 45px;
-    width: 640px;
+    width: 530px;
     border: 1px solid black;
     padding: 5px;
+}
+#titelLag{
+    width: 660px;
+}
+#titelHistoria{
+    width: 370px;
+}
+h2 {
+    color: black;
+    font-family: 'Playfair Display', serif;
 }
 body{
     background-color: white;
 }
 .stycke{
-    font-family: Courier;
+    font-family: 'Noto Sans TC', sans-serif;
     background-color: rgb(125, 170, 172);
+    font-size: 15px;
     width: 640px;
-    /*height: 110px;*/
     border: 1px solid black;
     margin: 0px;
     padding: 5px;
@@ -28,6 +38,10 @@ body{
     border: 1px solid black;
 }
 ol{
-    font-family: Courier;
+    font-family: Verdana;
     padding-left: 30px; 
+}
+#bildLag{
+    width: 200px;
+    height: 200px;
 }
