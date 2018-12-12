@@ -1,3 +1,7 @@
+/* Du bör alltid börja en css-fil med raden: 
+@charset "utf-8";
+*/
+
 table, th, td {
     border: 1px solid black;
     font-family: Verdana;
